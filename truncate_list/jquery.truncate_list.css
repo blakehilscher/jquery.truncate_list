@@ -1,0 +1,7 @@
+.truncate_list-container .truncate_list-hidden{
+  display:none;
+}
+
+.truncate_list-container.truncate_list-expanded .truncate_list-hidden{
+  display:block;
+}
